@@ -2,6 +2,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vanshita</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
+<br/>
+
+<a href="https://github.com/vanshitatwr620/github-readme-activity-graph"><img alt="Vanhita Tiwari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vanshitatwr620&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -60,10 +66,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/vanshitatwr620/github-readme-activity-graph"><img alt="Vanhita Tiwari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vanshitatwr620&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
