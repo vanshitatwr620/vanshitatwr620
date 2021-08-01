@@ -78,8 +78,8 @@
 
 </p>
 
-<!-- ## ❤ Views and Followers
+## ❤ Views and Followers
 <a href="https://github.com/vanshitatwr620/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=vanshitatwr620">
 </a>
-<a href="https://github.com/vanshitatwr620?tab=followers"><img src="https://img.shields.io/github/followers/vanshitatwr620?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/vanshitatwr620?tab=followers"><img src="https://img.shields.io/github/followers/vanshitatwr620?label=Followers&style=social" alt="GitHub Badge"></a>
